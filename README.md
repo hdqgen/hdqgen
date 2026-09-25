@@ -1,16 +1,16 @@
 <div align="center">
 
-  <img src="https://hdqgen.vercel.app/assets/logo.png" alt="HDQGen Logo" width="120"/>
+  <img src="https://hdqgen.com/assets/logo.png" alt="HDQGen Logo" width="120"/>
 
   # HDQGen: Local AI Studio for Desktop
 
   **Chat, generate images, generate video, and run a coding agent, all locally, no cloud, no subscription.**
 
-  [![Website](https://img.shields.io/badge/Website-hdqgen.vercel.app-060606?style=for-the-badge)](https://hdqgen.vercel.app/)
+  [![Website](https://img.shields.io/badge/Website-hdqgen.com-060606?style=for-the-badge)](https://hdqgen.com/)
   [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-blue?style=for-the-badge)](#download)
   [![License](https://img.shields.io/badge/License-One%20Time%20Purchase-orange?style=for-the-badge)](#pricing)
 
-  [Website](https://hdqgen.vercel.app/) · [Download](#download) · [Features](#features) · [Pricing](#pricing) · [FAQ](#faq)
+  [Website](https://hdqgen.com/) · [Download](#download) · [Features](#features) · [Pricing](#pricing) · [FAQ](#faq)
 
 </div>
 
@@ -22,7 +22,7 @@
 
 Everything you'd normally stitch together from separate apps, servers, and API keys is built into HDQGen from the start. Download local models, pick the ones you want, and start generating. Your chats, images, videos, and code never leave your device.
 
-> 🔗 Full details, demos, and testimonials: **[hdqgen.vercel.app](https://hdqgen.vercel.app/)**
+> 🔗 Full details, demos, and testimonials: **[hdqgen.com](https://hdqgen.com/)**
 
 ---
 
@@ -71,12 +71,12 @@ HDQGen is available for **Windows**, **macOS**, and **Linux**. One installer, pi
 ## 🖥️ Preview
 
 <div align="center">
-  <img src="https://hdqgen.vercel.app/assets/portrait-futuristic-female-humanoid-with-advanced-technology.webp" width="200" alt="AI generated portrait"/>
-  <img src="https://hdqgen.vercel.app/assets/futuristic-fantasy-scene-with-abstract-costume.webp" width="200" alt="AI generated character"/>
-  <img src="https://hdqgen.vercel.app/assets/futuristic-half-robot-tiger.webp" width="200" alt="AI generated landscape"/>
+  <img src="https://hdqgen.com/assets/portrait-futuristic-female-humanoid-with-advanced-technology.webp" width="200" alt="AI generated portrait"/>
+  <img src="https://hdqgen.com/assets/futuristic-fantasy-scene-with-abstract-costume.webp" width="200" alt="AI generated character"/>
+  <img src="https://hdqgen.com/assets/futuristic-half-robot-tiger.webp" width="200" alt="AI generated landscape"/>
 </div>
 
-More examples, including generated video clips, are available on the [website gallery](https://hdqgen.vercel.app/#gallery).
+More examples, including generated video clips, are available on the [website gallery](https://hdqgen.com/#gallery).
 
 ---
 
@@ -100,7 +100,7 @@ HDQGen works with free, open local models for chat, image, and video generation,
 
 Have a question before you buy, or need help after installing?
 
-* 🌐 Website: [hdqgen.vercel.app](https://hdqgen.vercel.app/#contact)
+* 🌐 Website: [hdqgen.com](https://hdqgen.com/#contact)
 * 📷 Instagram: PLACEHOLDER_INSTAGRAM_URL
 * ▶️ YouTube: PLACEHOLDER_YOUTUBE_URL
 
