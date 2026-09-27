@@ -8,7 +8,7 @@
 
   [![Website](https://img.shields.io/badge/Website-hdqgen.com-060606?style=for-the-badge)](https://hdqgen.com/)
   [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-blue?style=for-the-badge)](https://hdqgen.gumroad.com/)
-  [![License](https://img.shields.io/badge/License-One%20Time%20Purchase-orange?style=for-the-badge)](https://www.hdqgen.com/pricing)
+  [![License](https://img.shields.io/badge/One%20Time%20Purchase-orange?style=for-the-badge)](https://www.hdqgen.com/pricing)
 
   [Website](https://hdqgen.com/) · [Download](https://hdqgen.gumroad.com/l/hdqgen-for-windows) · [Features](https://www.hdqgen.com/#capabilities) · [Pricing](https://www.hdqgen.com/pricing)
 
