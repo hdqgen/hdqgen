@@ -7,10 +7,10 @@
   **Chat, generate images, generate video, and run a coding agent, all locally, no cloud, no subscription.**
 
   [![Website](https://img.shields.io/badge/Website-hdqgen.com-060606?style=for-the-badge)](https://hdqgen.com/)
-  [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-blue?style=for-the-badge)](#download)
-  [![License](https://img.shields.io/badge/License-One%20Time%20Purchase-orange?style=for-the-badge)](#pricing)
+  [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-blue?style=for-the-badge)](https://hdqgen.gumroad.com/)
+  [![License](https://img.shields.io/badge/License-One%20Time%20Purchase-orange?style=for-the-badge)](https://www.hdqgen.com/pricing)
 
-  [Website](https://hdqgen.com/) · [Download](#download) · [Features](#features) · [Pricing](#pricing) · [FAQ](#faq)
+  [Website](https://hdqgen.com/) · [Download](https://hdqgen.gumroad.com/l/hdqgen-for-windows) · [Features](https://www.hdqgen.com/#capabilities) · [Pricing](https://www.hdqgen.com/pricing)
 
 </div>
 
@@ -45,13 +45,12 @@ Everything you'd normally stitch together from separate apps, servers, and API k
 
 ## 📦 Download
 
-HDQGen is available for **Windows**, **macOS**, and **Linux**. One installer, pick your models afterward, and start running everything locally in minutes.
+HDQGen is available for **Windows**, and **Linux**. One installer, pick your models afterward, and start running everything locally in minutes.
 
 | Platform | Download |
 |---|---|
-| 🪟 **Windows** | [Buy and Download for Windows](PLACEHOLDER_GUMROAD_WINDOWS_URL) |
-| 🍎 **macOS** | [Buy and Download for macOS](PLACEHOLDER_GUMROAD_MACOS_URL) |
-| 🐧 **Linux** | [Buy and Download for Linux](PLACEHOLDER_GUMROAD_LINUX_URL) |
+| 🪟 **Windows** | [Buy and Download for Windows](https://hdqgen.gumroad.com/l/hdqgen-for-windows) |
+| 🐧 **Linux** | [Buy and Download for Linux](https://hdqgen.gumroad.com/l/hdqgen-for-linux) |
 
 > Minimum requirements: a modern 64 bit CPU. A dedicated GPU is recommended for faster generation but not required.
 
@@ -100,9 +99,9 @@ HDQGen works with free, open local models for chat, image, and video generation,
 
 Have a question before you buy, or need help after installing?
 
-* 🌐 Website: [hdqgen.com](https://hdqgen.com/#contact)
-* 📷 Instagram: PLACEHOLDER_INSTAGRAM_URL
-* ▶️ YouTube: PLACEHOLDER_YOUTUBE_URL
+* 🌐 Website: [hdqgen.com](https://hdqgen.com)
+* 📷 Instagram: [hdqgen](https://www.instagram.com/hdqgen/)
+* ▶️ YouTube: [@hdqgen](https://www.youtube.com/@hdqgen)
 
 ---
 
